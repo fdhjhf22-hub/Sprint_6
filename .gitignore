@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.log
+geckodriver.exe
+chromedriver.exe
+.DS_Store
+allure_results/
+allure-report/
